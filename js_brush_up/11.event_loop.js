@@ -17,6 +17,7 @@
 // https://www.javascripttutorial.net/javascript-call-stack/
 // https://www.javascripttutorial.net/javascript-event-loop/
 // https://sandypockets.medium.com/the-call-stack-web-apis-and-event-loop-fcc894905b42
+// Микро и макро задачи в JavaScript: https://www.youtube.com/watch?v=SUkauGm52Qs
 
 //Асинхронная операция это операция, требующая ожидания или выполнения какого-то условия.
 
